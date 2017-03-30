@@ -1,0 +1,16 @@
+//
+//  Vir.pch
+//  SlidePagePractice
+//
+//  Created by D.xin on 2017/3/29.
+//  Copyright © 2017年 D.xin. All rights reserved.
+//
+
+#ifndef Vir_pch
+#define Vir_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import <UIKit/UIKit.h>
+#endif /* Vir_pch */
